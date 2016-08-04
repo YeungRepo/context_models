@@ -16,6 +16,7 @@ All three of these core functions rely on kcatmaxfunc.m, kTLfunc.m, kfmaxfunc.m,
 The plasmids for these experiments are also available on AddGene.  The data for the experiments is posted in separate folders for each set of experiments; if you need help understanding or processing the data, I can help. Feel free to email me directly if you have any questions at enoch.yeung@pnnl.gov or eyeung@caltech.edu. 
 
 Happy coding!
+
 Enoch 
 
 
